@@ -14,6 +14,10 @@ This README is edited at second commit.
 
 README is edited from test-branch-01
 
-# this is the new modification from test-branch-01 in 02-01-2020
+# this new modification is from master in 02-01-2020
+
+README is edited from master in 02-01-2020
+
+# first commit for 02-01-2020
 
 README is edited from test-branch-01 in 02-01-2020
