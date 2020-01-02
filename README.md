@@ -21,7 +21,3 @@ README is edited from master in 02-01-2020
 # first commit for 02-01-2020
 
 README is edited from test-branch-01 in 02-01-2020
-
-# second commit for 02-01-2020
-
-README is edited from test-branch-01 in 02-01-2020 for second time
